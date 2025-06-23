@@ -42,6 +42,7 @@ Update personal info (name, address, phone, password)
 
 
 
+
 bankProj/
 │
 ├── BankManagementSystem.java     // Main logic and user interface
