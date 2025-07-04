@@ -2,8 +2,6 @@
 
 This is a simple **Bank Management System** built using **Java** and **MySQL**. It simulates core banking operations like user registration, login, deposit, withdrawal, transfer, and account updates.
 
----
-
 ## 📌 Features
 
 - ✅ User registration with password validation
