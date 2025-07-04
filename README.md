@@ -23,6 +23,7 @@ This is a simple **Bank Management System** built using **Java** and **MySQL**. 
 - **CLI-based UI** using Java `Scanner` class
 
 
+
 🧪 Sample Functionalities
 Register an account
 
