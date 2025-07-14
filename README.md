@@ -13,7 +13,6 @@ This is a simple **Bank Management System** built using **Java** and **MySQL**. 
 - 🗃️ Data persistence using MySQL
 - 🧠 In-memory transaction history (last 5)
 
-
 ---
 
 ## 🧑‍💻 Technologies Used
