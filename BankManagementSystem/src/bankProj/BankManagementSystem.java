@@ -3,6 +3,7 @@ package bankProj;
 import java.util.*;
 import java.text.*;
 
+
 interface SavingsAccount {
     double rate = 0.04, limit = 10000, limit1 = 200;
     void deposit(double n, Date d);
